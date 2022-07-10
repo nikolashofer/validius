@@ -5,3 +5,4 @@ Validius provides access to simple react-hooks which makes validating forms triv
 ### Todo
 
 -   [ ] Describe usage & installation
+-   [ ] Add other form elements for validation
