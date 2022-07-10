@@ -1,0 +1,25 @@
+{
+	"name": "validius",
+	"version": "1.0.0",
+	"description": "React Hook validation library.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nikolashofer/validius.git"
+	},
+	"keywords": [
+		"validation"
+	],
+	"author": "Hofer, Nikolas",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nikolashofer/validius/issues"
+	},
+	"homepage": "https://github.com/nikolashofer/validius#readme",
+	"dependencies": {
+		"react": "^18.0.0"
+	}
+}
